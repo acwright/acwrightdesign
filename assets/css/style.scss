@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.btn {
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 18px;
+  background: #6E85AE;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #586b8c;
+  text-decoration: none;
+}
+
+.view {
+  text-align: center;
+}
