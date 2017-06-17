@@ -16,19 +16,15 @@
       <header>
         <h1>A.C. Wright Design</h1>
         <img src="public/logo.png"></img>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-
       </header>
       <section>
 
       {{ content }}
 
       </section>
-      <footer></footer>
+      <footer>
+        <p class="view"><a href="https://github.com/acwright">View My GitHub Profile</a></p>
+      </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
