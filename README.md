@@ -1,6 +1,6 @@
 ### Welcome
 
-Hey there! My name is Aaron Wright and I'm a software developer from Lincoln, NE.
+Hey there! My name is Aaron Wright and I'm a software developer from Lincoln, Nebraska.
 
 ### Support or Contact
 
