@@ -11,3 +11,7 @@ Having trouble with one of my applications?
 ### Privacy Policy (Effective: 7/24/19)
 
 Very simply, A.C. Wright Design does not collect ANY information from end users in our applications nor do our applications use any third-party frameworks or software which collects any information from our end users.
+
+### Infinite Token
+
+[Check out more apps at Infinite Token!](https://www.infinitetoken.com)
